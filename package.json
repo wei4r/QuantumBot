@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "name": "quantumbot",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase": "^10.12.2",
+    "firebase-tools": "^13.11.4"
+  }
+}
